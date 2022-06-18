@@ -248,7 +248,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 .grid {
   position: relative;
   margin: 0 auto;
-  padding: 1em 0 0em;
+  padding: 1em 0em 1em;
   max-width: 1000px;
   list-style: none;
   text-align: center;
